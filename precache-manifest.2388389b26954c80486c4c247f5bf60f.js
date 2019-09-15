@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c19939023c460f02de4cfaa1eb5cc20",
+    "revision": "168a9c5563df7af7d23b4e48252a3b6c",
     "url": "/fampay/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fampay/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "806a623ec3c2d3f909a1",
+    "revision": "b25744d33022423de7db",
     "url": "/fampay/static/css/main.3d355dbd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fampay/static/js/2.284fed7c.chunk.js"
   },
   {
-    "revision": "806a623ec3c2d3f909a1",
-    "url": "/fampay/static/js/main.e48a506a.chunk.js"
+    "revision": "b25744d33022423de7db",
+    "url": "/fampay/static/js/main.1e98b27a.chunk.js"
   },
   {
     "revision": "781dadad733d021e6f73",
