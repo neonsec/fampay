@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fampay/precache-manifest.2388389b26954c80486c4c247f5bf60f.js"
+  "/fampay/precache-manifest.086e1a5f19bc146e62e55c9aa8353300.js"
 );
 
 self.addEventListener('message', (event) => {
