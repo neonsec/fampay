@@ -7,7 +7,7 @@ export default function() {
             <Navbar bg="white">
                 <Navbar.Brand href="#home">
                     <img
-                        src="/logo_main.png"
+                        src="logo_main.png"
                         width="200"
                         height="60"
                         className="d-inline-block align-top"
