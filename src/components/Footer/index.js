@@ -11,7 +11,7 @@ export default function() {
             <span className="divider"></span>
             <div
                 className="shadow-lg p-1 mb-5 bg-white  join-input"
-                style={{ width: '50%' }}
+                style={{ width: '70%', margin: 10 }}
             >
                 <input className="textInput" />
                 <Button bsPrefix="join-button">join</Button>
